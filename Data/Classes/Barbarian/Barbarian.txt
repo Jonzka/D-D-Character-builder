@@ -1,0 +1,242 @@
+[Equipment start]
+
+Equipment
+You start with the following equipment, in addition to
+th equipment granted by your background:
+(a) a greataxe or (b) any martial melee weapon
+(a) two handaxes or (b) any simple weapon
+An explorer’s pack and four javelins
+
+[Equipment end]
+
+
+[Start Proficiencies and Hit Dice]
+
+[Hit Dice]
+Hit dice: 1d12
+
+Armor: Light armor, medium armor, shields
+
+Weapons: Simple weapons, martial weapons
+
+Tools: None
+
+Saving Throws: Strength, Constitution
+
+Skills: Choose two from Animal Handling, Athletics,
+Intimidation, Nature, Perception, and Survival
+
+[End Proficiencies and Hit Dice]
+
+
+[Start Features]
+
+Rage
+In battle, you fight with primal ferocity. On your turn,
+you can enter a rage as a bonus action.
+W hile raging, you gain the following benefits if you
+aren’t w earing heavy armor:
+
+You have advantage on Strength checks and Strength
+saving throws.
+
+When you make a melee weapon attack using
+Strength, you gain a bonus to the damage roll that
+increases as you gain levels as a barbarian, as shown
+in the Rage Damage colum n of the Barbarian table.
+
+You have resistance to bludgeoning, piercing, and
+slashing damage.
+
+If you are able to cast spells, you can’t cast them or
+concentrate on them while raging.
+
+Your rage lasts for 1 minute. It ends early if you are
+knocked unconscious or if your turn ends and you
+haven’t attacked a hostile creature since your last turn
+or taken damage since then. You can also end your rage
+on your turn as a bonus action.
+
+Once you have raged the number of times shown
+for your barbarian level in the Rages column of the
+Barbarian table, you must finish a long rest before you
+can rage again.
+
+Unarmored Defense
+W hile you are not wearing any armor, your Arm or Class
+equals 10 + your Dexterity m odifier + your Constitution
+modifier. You can use a shield and still gain this benefit.
+
+Reckless Attack
+Starting at 2nd level, you can throw aside all concern
+for defense to attack with fierce desperation. W hen
+you make your first attack on your turn, you can decide
+to attack recklessly. D oing so gives you advantage on
+m elee weapon attack rolls using Strength during this
+turn, but attack rolls against you have advantage until
+your next turn.
+
+Danger Sense
+At 2nd level, you gain an uncanny sense of when things
+nearby aren’t as they should be, giving you an edge
+when you dodge away from danger.
+You have advantage on Dexterity saving throws
+against effects that you can see, such as traps and spells.
+To gain this benefit, you can’t be blinded, deafened, or
+incapacitated.
+
+Primal Path
+At 3rd level, you choose a path that shapes the nature of
+your rage. C hoose the Path of the Berserker or the Path
+of the Totem Warrior, both detailed at the end of the
+class description. Your choice grants you features at 3rd
+level and again at 6th, 10th, and 14th levels.
+
+Extra Attack
+Beginning at 5th level, you can attack twice, instead of
+once, whenever you take the Attack action on your turn.
+
+Fast Movement
+Starting at 5th level, your speed increases by 10 feet
+while you aren’t w earing heavy armor.
+
+Feral Instinct
+By 7th level, your instincts are so honed that you have
+advantage on initiative rolls.
+Additionally, if you are surprised at the beginning of
+com bat and aren’t incapacitated, you can act normally
+on your first turn, but only if you enter your rage before
+doing anything else on that turn.
+
+Brutal Critical
+Beginning at 9th level, you can roll one additional
+weapon damage die when determining the extra
+damage for a critical hit with a melee attack.
+This increases to two additional dice at 13th level
+and three additional dice at 17th level.
+
+Relentless Rage
+Starting at 11th level, your rage can keep you fighting
+despite grievous w ounds. If you drop to 0 hit points
+while you’re raging and don’t die outright, you can make
+a DC 10 Constitution saving throw. If you succeed, you
+drop to 1 hit point instead.
+
+Each time you use this feature after the first, the DC
+increases by 5. When you finish a short or long rest, the
+DC resets to 10.
+
+Persistent Rage
+Beginning at 15th level, your rage is so fierce that
+it ends early only if you fall unconscious or if you
+choose to end it.
+
+Indomitable Might
+Beginning at 18th level, if your total for a Strength
+check is less than your Strength score, you can use that
+score in place of the total.
+
+Primal Champion
+At 20th level, you em body the power of the wilds. Your
+Strength and Constitution scores increase by 4. Your
+maximum for those scores is now 24.
+
+[End Features]
+
+
+[Start Features and Levels Info]
+
+Level 1
+Proficiency bonus: +2
+Features: Rage, Unarmored Defense
+Rages: 2
+Rage Damage: +2
+----------------------
+Level 2:
+Proficiency bonus: +2
+Features: Reckless Attack, Danger Sense
+Rages: 2
+Rage Damage: +2
+----------------------
+Level 3:
+Proficiency bonus: +2
+Features: Primal Path
+Rages: 3
+Rage damage: +2
+----------------------
+Level 4:
+Proficiency bonus: +2
+Features: Ability Score Improvement
+Rages: 3
+Rage damage:  +2
+----------------------
+Level 5:
+Proficiency bonus: +3
+Features: Extra Attack, Fast Movement
+Rages: 3
+Rage damage: +2
+----------------------
+Level 6:
+Proficiency bonus: +3
+Features: Path feature
+Rages: 4
+Rage damage: +2
+----------------------
+Level 7:
+Proficiency bonus: +3
+Features: Feral Instinct
+Rages: 4
+Rage damage: +2
+----------------------
+Level 8:
+Proficiency bonus: +3
+Features: Ability Score Improvement
+Rages: 4
+Rage damage: +2
+----------------------
+Level 9:
+Proficiency bonus: +4
+Features: Brutal Critical (1 die)
+Rages: 4
+Rage damage: +3
+----------------------
+Level 10:
+Proficiency bonus: +4
+Features: Path Feature
+Rages: 4
+Rage damage: +3
+----------------------
+Level 11:
+Proficiency bonus: +4
+Features: Relentless
+Rages: 4
+Rage damage: +3
+----------------------
+Level 12:
+Proficiency bonus: +4
+----------------------
+Level 13:
+Proficiency bonus: +4
+----------------------
+Level 14:
+Proficiency bonus: +4
+----------------------
+Level 15:
+Proficiency bonus: +4
+----------------------
+Level 16:
+Proficiency bonus: +4
+----------------------
+Level 17:
+Proficiency bonus: +4
+----------------------
+Level 18:
+Proficiency bonus: +4
+----------------------
+Level 19:
+Proficiency bonus: +4
+----------------------
+Level 20:
+Proficiency bonus: +4
+
+[End Features and Levels Info]
